@@ -7,3 +7,7 @@ We used GridSearchCV algorithm to obtain the optimal parameter for each model in
 
 ### About the dataset 
 Source: https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset
+
+
+For more information:
+[Prediction On Loan Approval using Machine Learning.pdf](https://github.com/hwaernie/Prediction-of-Loan-Approval-Using-Machine-Learning/files/7187082/Prediction.On.Loan.Approval.using.Machine.Learning.pdf)
